@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/rdnsparham-rgb/Parham)  
 
 <a href="https://Rubika.ir/Vps_plus" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Rubika" width="100" height="100"> contact us
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Rubika_logo.png" alt="Rubika" width="100" height="100"> contact us
 </a>
 
 # کانفیگ ویژه‌ی وی تو ری
