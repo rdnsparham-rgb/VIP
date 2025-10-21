@@ -1,6 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/rdnsparham-rgb/Parham.svg) 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  
-[![Update Configs](https://github.com/rdnsparham-rgb/Parham/actions/workflows/main.yml/badge.svg)](https://github.com/rdnsparham-rgb/Parham/actions/workflows/main.yml) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rdnsparham-rgb/Parham)  
 
 <a href="https://Rubika.ir/Vps_plus" target="_blank">
