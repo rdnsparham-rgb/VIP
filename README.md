@@ -12,4 +12,4 @@
 ## متن کانفیگ (قابل کپی):
 
 ```text
-https://raw.githubusercontent.com/rdnsparham-rgb/Parham/refs/heads/main/parha.txt
+https://raw.githubusercontent.com/rdnsparham-rgb/VIP/refs/heads/main/iran.txt
