@@ -3,8 +3,8 @@
 [![Update Configs](https://github.com/rdnsparham-rgb/Parham/actions/workflows/main.yml/badge.svg)](https://github.com/rdnsparham-rgb/Parham/actions/workflows/main.yml) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rdnsparham-rgb/Parham)  
 
-<a href="https://t.me/+IOG0nSifAV03ZmY0" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="100" height="100"> contact us
+<a href="https://Rubika.ir/Vps_plus" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Rubika" width="100" height="100"> contact us
 </a>
 
 # کانفیگ ویژه‌ی وی تو ری
